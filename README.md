@@ -8,3 +8,9 @@
   Os dados deverão ser encriptados (provavelmente por chave simétrica), para que o usuário possa autorizar ou no os acessos à suas informações.
 
   Por fim, o projeto visa melhorar o cuidado com a saúde, garantindo informações para os médicos autorizados, pesquisadores e principalmente, pacientes.
+  
+Integrantes:
+- Bruno Porto
+- Filipe Borba
+- Frederico Curti
+- Gabriel Ligeiro
