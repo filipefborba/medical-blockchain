@@ -1,4 +1,4 @@
-# BlockMed
+# Block-Med
 (Tema: Histórico Médico)
 
 Dados de pacientes são de extrema importância para diversas partes do setor de saúde. Com elas, é possível buscar a prevenção de doenças, realizar um diagnóstico precoce, fundamentar pesquisas, entre outros aspectos relevantes que afetam não só o bem estar da população, mas o gasto com a saúde e sua efetividade.
