@@ -9,8 +9,8 @@ Os dados deverão ser encriptados (provavelmente por chave simétrica), para que
 
 Por fim, o projeto visa melhorar o cuidado com a saúde, garantindo informações para os médicos autorizados, pesquisadores e principalmente, pacientes.
 
-Demo do protótipo: https://youtu.be/MUoQWFRD7JI 
-Apresentação
+Demo do protótipo: https://youtu.be/MUoQWFRD7JI   
+[Apresentação](https://github.com/filipefborba/medical-blockchain/blob/master/Block-Med.pptx)
   
 Integrantes:
 - Bruno Porto
